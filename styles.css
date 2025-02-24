@@ -166,7 +166,7 @@ main {
 
 .filters {
     display: flex;
-    gap: 1rem;
+    gap: 8px;
     margin: 2rem 0;
     flex-wrap: wrap;
     justify-content: center;
