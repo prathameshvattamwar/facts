@@ -139,3 +139,10 @@ function handleShare(button) {
         });
     }
 }
+
+function showAlert(){
+    alert("To see all facts, please select category 'All'");
+}
+
+
+
